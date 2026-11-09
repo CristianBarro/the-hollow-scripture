@@ -10,7 +10,7 @@ O Santo Sem Nome que a Ordem do Último Sino tentou manter adormecido é **Herob
 
 ## ⬇️ Download
 
-Baixe a versão mais recente em **[Releases](../../releases/latest)**: `hollowscripture-0.22.0-conteudo-funcional-dev.jar`.
+Baixe a versão mais recente em **[Releases](../../releases)**: `hollowscripture-0.22.0-conteudo-funcional-dev.jar`.
 
 ## Requisitos
 
